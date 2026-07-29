@@ -5,6 +5,8 @@ Facebook/LinkedIn (Open Graph), and Twitter/X, plus a quick on-page SEO audit,
 in a side panel. Reads straight from the page's DOM, so it works on live sites
 and `localhost` dev servers alike.
 
+<img width="1280" height="777" alt="CleanShot 2026-07-29 at 20 44 26 1" src="https://github.com/user-attachments/assets/d76f8a9e-d7bc-4343-8b98-390377dffafe" />
+
 ## Features
 
 - Google, Open Graph, and Twitter/X card previews

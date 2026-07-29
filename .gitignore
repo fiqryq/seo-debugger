@@ -17,12 +17,9 @@ web-ext.config.ts
 *.tsbuildinfo
 
 # Env files
-.env
-.env.*
 !.env.example
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 .claude/
@@ -32,3 +29,4 @@ web-ext.config.ts
 *.njsproj
 *.sln
 *.sw?
+config.bat
